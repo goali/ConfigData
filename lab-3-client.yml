@@ -1,7 +1,3 @@
 # configfile
 ---
-spring:
-  config:
-    name: lucky1
-  profiles:
-    active: act
+name: lucky1
