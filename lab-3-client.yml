@@ -1,3 +1,9 @@
 # configfile
 ---
+spring:
+  profiles: default
 lucky-word: lucky1
+---
+spring:
+  profiles: germany
+lucky-word: bavaria
